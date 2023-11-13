@@ -25,8 +25,8 @@ npm install --global yarn
 yarn global add firebase-tools
 
 cd ~
-git clone <this project .git>
-cd <this project folder>
+git clone git@github.com:kennaruk/cstu-chat-firebase-sandbox.git
+cd cstu-chat-firebase-sandbox.git
 yarn
 
 yarn dev
