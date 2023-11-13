@@ -5,10 +5,10 @@
 ## For Windows User
 - [Cmder + Git](https://github.com/cmderdev/cmder/releases/download/v1.3.24/cmder.zip)
 
-## For MacOS User
+### For MacOS User
 - [Git](https://git-scm.com/download/mac)
 
-## For both Windows & MacOS
+### For both Windows & MacOS
 - [Node.js](https://nodejs.org/en/download)
 - [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable)
 
@@ -19,7 +19,7 @@ After we have above tools ready then
 
 **MacOS** - Open [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS))
 
-Then
+Then running these following commands in ya terminal
 ```sh
 npm install --global yarn
 yarn global add firebase-tools
