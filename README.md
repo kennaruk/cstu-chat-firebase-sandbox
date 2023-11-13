@@ -34,5 +34,6 @@ yarn
 - Replace [line 11](https://github.com/kennaruk/cstu-chat-firebase-sandbox/blob/35f67767e49973dcefb4dd6993ecaf5cd258c5cb/src/services/firebase.ts#L11) with [this json file](https://firebasestorage.googleapis.com/v0/b/ken-chat-730f5.appspot.com/o/k-cred?alt=media&token=57cf5a0d-4de0-4db5-94cf-5dbb0cb361c0)
 
 ```
+yarn build
 yarn dev
 ```

@@ -1,4 +1,4 @@
-import { limitToLast, off, onValue, push, query, ref, set } from "firebase/database";
+import { off, onValue, push, query, ref, set } from "firebase/database";
 import { useCallback, useEffect, useMemo, useState } from "react";
 import { database } from "../services/firebase";
 import { Chats, Message, MessageContent } from "../databases/types";
