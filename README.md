@@ -9,6 +9,7 @@
 - [Git](https://git-scm.com/download/mac)
 
 ### For both Windows & MacOS
+- [VSCode](https://code.visualstudio.com/download)
 - [Node.js](https://nodejs.org/en/download)
 - [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable)
 
