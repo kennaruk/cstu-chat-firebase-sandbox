@@ -27,7 +27,7 @@ yarn global add firebase-tools
 
 cd ~
 git clone git@github.com:kennaruk/cstu-chat-firebase-sandbox.git
-cd cstu-chat-firebase-sandbox.git
+cd cstu-chat-firebase-sandbox
 yarn
 ```
 
