@@ -1,5 +1,4 @@
 export function isDeployedWebsiteAndOpenedOnMobile(): boolean {
-    return true;
     // Check if the connection is secure (HTTPS)
     const isSecureConnection = window.location.protocol === "https:";
   
